@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+[] France
+[] Hawaii
+[] Netherlands
+[] Belgium
+[] Italy
