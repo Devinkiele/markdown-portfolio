@@ -1,6 +1,6 @@
 # My Favorite Places that I have been
-*France
-*Italy
-*Hawaii
-*Netherlands
-*Belgium
+* France
+* Italy
+* Hawaii
+* Netherlands
+* Belgium
